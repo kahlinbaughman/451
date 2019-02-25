@@ -1,0 +1,22 @@
+Script started on 2019-02-24 23:39:47-1000
+]0;kahlin@casca: ~/ICS-451/3[01;32mkahlin@casca[00m:[01;34m~/ICS-451/3[00m$ exitmake[2Plscd 3[2Plsmake
+gcc -c server.c
+gcc server.o -o server
+gcc -c client.c
+gcc client.c -o client
+]0;kahlin@casca: ~/ICS-451/3[01;32mkahlin@casca[00m:[01;34m~/ICS-451/3[00m$ ./server 250808[K
+Starting server.
+Waiting for client...
+Client connected.
+Receiving SYN.
+The header looks like: c39861f8513d25be0000024470ffff00
+Setting ACK, ACK number, and changing portnumbers.
+Setting new sequence number.
+Sending response header (SYN-ACK).
+Receiving last response header.
+The header looks like: c39861f8513d25c06a6388330104470ffff00
+Closing connection.
+]0;kahlin@casca: ~/ICS-451/3[01;32mkahlin@casca[00m:[01;34m~/ICS-451/3[00m$ exit
+exit
+
+Script done on 2019-02-24 23:40:27-1000

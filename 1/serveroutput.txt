@@ -1,0 +1,12 @@
+Script started on 2019-01-25 19:52:11-1000
+]0;kahlin@casca: ~/451/program1[01;32mkahlin@casca[00m:[01;34m~/451/program1[00m$ java Server 25000
+Server has been started at port: 25000
+Waiting for Client....
+Client accepted.
+Sending file.
+File sent.
+Closing connection.
+]0;kahlin@casca: ~/451/program1[01;32mkahlin@casca[00m:[01;34m~/451/program1[00m$ exit
+exit
+
+Script done on 2019-01-25 19:52:55-1000

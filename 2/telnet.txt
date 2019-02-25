@@ -1,0 +1,16 @@
+Script started on 2019-02-18 00:13:21-1000
+]0;kahlin@casca: ~/ICS-451/2[01;32mkahlin@casca[00m:[01;34m~/ICS-451/2[00m$ make
+gcc -c server.c
+gcc server.o -o server
+gcc -c client.c
+gcc client.c -o client
+]0;kahlin@casca: ~/ICS-451/2[01;32mkahlin@casca[00m:[01;34m~/ICS-451/2[00m$ ./server 25080
+Starting server.
+Waiting for client...
+Client connected.
+Sending file to client.
+Closing connection.
+]0;kahlin@casca: ~/ICS-451/2[01;32mkahlin@casca[00m:[01;34m~/ICS-451/2[00m$ exit
+exit
+
+Script done on 2019-02-18 00:14:39-1000

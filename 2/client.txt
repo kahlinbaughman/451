@@ -1,0 +1,16 @@
+Script started on 2019-02-18 00:16:00-1000
+]0;kahlin@casca: ~/ICS-451/2[01;32mkahlin@casca[00m:[01;34m~/ICS-451/2[00m$ ./client 25808[K[K[K080
+Starting client.
+Attempting to connect to server...
+Connected to server.
+Receiving file.
+File revieved. Closing connection.
+]0;kahlin@casca: ~/ICS-451/2[01;32mkahlin@casca[00m:[01;34m~/ICS-451/2[00m$ ls
+berserk-wiki.html       client.o    server.c           telnet.txt
+berserk-wikipedia.html  client.txt  server.o
+[0m[01;32mclient[0m                  Makefile    server.txt
+client.c                [01;32mserver[0m      telnet-client.txt
+]0;kahlin@casca: ~/ICS-451/2[01;32mkahlin@casca[00m:[01;34m~/ICS-451/2[00m$ exit
+exit
+
+Script done on 2019-02-18 00:16:20-1000

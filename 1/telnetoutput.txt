@@ -1,0 +1,239 @@
+Script started on 2019-01-25 19:54:50-1000
+]0;kahlin@casca: ~/451/program1[01;32mkahlin@casca[00m:[01;34m~/451/program1[00m$ telnet localhost 25000
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+LORD OF THE RINGS: THE FELLOWSHIP OF THE RINGS
+A TRANSCRIPT
+transcribed by Elisabeth Kerrigan
+Originally Posted at The Unofficial Lord of the Rings Movie Site
+Reformated into Script-like format by AWESOME
+
+
+GALADRIEL (V.O.)
+The world is changed. I feel it in the water.
+I feel it in the earth. I smell it in the air.
+Much that once was is lost, for none now live
+who remember it.
+
+It began with the forging of the Rings of
+Power. Three were given to the Elves, immortal,
+wisest and fairest of all beings. Seven were
+given to the Dwarves, great miners and
+craftsmen of the mountain halls. And nine, nine
+rings were gifted to the race of Men, who above
+all else desire power. For within these rings
+was bound the power and the will to rule each
+race. But they were all of them deceived, for
+deep in the land of Mordor, the Dark Lord
+Sauron forged another ring, a master ring, and
+into this ring he poured all his cruelty, his
+malice and his will to dominate every living
+thing. One ring to rule them all. One by one,
+the free peoples of Middle Earth fell to the
+power of the Ring, but there were some who
+resisted. A last alliance of men and elves
+marched against the armies of Mordor, and on
+the very slopes of Mount Doom, they fought for
+the freedom of Middle-Earth. Victory was near,
+but the power of the ring could not be undone.
+
+SAURON appears, crushing a dozen MEN with each blow of his
+huge mace.
+
+GALADRIEL (V.O.)
+It was in this moment, when all hope had
+faded, that Isildur, son of the king, took up
+his father's sword.
+
+ISILDUR picks up sword, SAURON breaks it, but ISILDUR uses
+the broken blade to cut off SAURON'S fingers, and the RING.
+
+
+GALADRIEL (V.O.)
+And Sauron, enemy of the free peoples of
+Middle-Earth, was defeated. The Ring passed to
+Isildur, who had this one chance to destroy
+evil forever, but the hearts of men are easily
+corrupted. And the ring of power has a will of
+its own. It betrayed Isildur, to his death.
+
+ISILDUR attacked by goblins, dies in the river, and the
+RING is lost in the water.
+
+GALADRIEL (V.O.)
+And some things that should not have been
+forgotten were lost. History became legend.
+Legend became myth. For two and a half thousand
+years, the ring passed out of all knowledge.
+Until, when chance came, the ring ensnared
+another bearer.
+
+GOLLUM finds the RING in the riverbed.
+
+GOLLUM
+My Precious, my own.
+
+GALADRIEL (V.O.)
+The ring came to the creature Gollum, who took
+it deep into the tunnels under the Misty
+Mountains, and there it consumed him.
+
+GOLLUM
+It came to me, my own, my love, my Precious.
+
+GALADRIEL (V.O.)
+The ring gave to Gollum unnatural long life.
+For five hundred years it poisoned his mind,
+and in the gloom of Gollum's cave it waited.
+Darkness crept back into the forests of the
+world. Rumor grew of a shadow in the East,
+whispers of a nameless fear, and the Ring of
+Power perceived that its time had come. It
+abandoned Gollum, but then something happened
+that the Ring did not intend. It was picked up
+by the most unlikely creature imaginable. A
+hobbit, Bilbo Baggins, of the Shire.
+
+BILBO
+What's this? A Ring!
+
+GOLLUM
+Lost! My Precious is lost!
+
+GALADRIEL (V.O.)
+For the time will soon come when hobbits will
+shape the fortunes of all.
+
+
+
+Shire 60 years later
+
+
+
+FRODO reading a book under a tree, hears GANDALF approach
+singing. Runs to meet him.
+
+FRODO
+You're late.
+
+GANDALF
+A wizard is never late, Frodo Baggins, nor is
+he early. He arrives precisely when he means
+to.
+
+They both try to keep a straight face, and fail. FRODO
+throws himself into GANDALF'S arms for a hug.
+
+FRODO
+It's wonderful to see you again, Gandalf.
+
+GANDALF
+You didn't think I'd miss your Uncle Bilbo's
+birthday.
+
+FRODO
+What's new in the world? Tell me everything.
+
+GANDALF
+Haven't we grown curious? Most unnatural for a
+hobbit. What can I tell you? Life in the wide
+world goes on, much as it has this past age,
+full of its own comings and goings, scarcely
+aware of the existence of hobbits. For which I
+am very grateful.
+
+They pass a field where tents and a banner are being set
+up.
+
+GANDALF
+Ah, the long-expected party. How is the old
+rascal? I understand this is to be a party of
+special magnificence.
+
+FRODO
+You know Bilbo. He has the whole place in an
+uproar.
+
+GANDALF
+Well, that should please him.
+
+FRODO
+Half the Shire's been invited. He's up to
+something.
+
+GANDALF
+Indeed?
+
+FRODO
+All right, keep your secrets. Before you came
+along, we Bagginses were very well thought of.
+Never had any adventures or did anything
+unexpected.
+
+GANDALF
+If you're referring to that incident with the
+dragon, I was barely involved. I only gave your
+uncle a little nudge out the door.
+
+FRODO
+Whatever you did, you have been officially
+labeled a disturber of the peace.
+
+A group of HOBBIT children see GANDALF and come running.
+
+CHILDREN
+Gandalf, Gandalf! Fireworks, Gandalf!
+
+GANDALF pretends he won't, but he sets off a butterfly
+firework for them. An old grandmother's smile at the
+children's delight turns to a more socially acceptable
+frown when an annoyed mother becomes witness.
+
+FRODO
+Gandalf, I'm glad you're back.
+
+FRODO jumps off the wagon.
+
+GANDALF
+So am I, dear boy, so am I.
+
+
+
+GANDALF stops his wagon in front of Bag End, passes a sign
+'No Admittance Except on Party Business', knocks on the
+door with his staff. A disgruntled voice comes from within.
+
+BILBO
+No thank you! We don't want any more well-
+wishers, visitors, or distant relations!
+
+GANDALF
+How about very old friends?
+
+BILBO
+Gandalf?
+
+GANDALF
+Bilbo Baggins!
+
+BILBO
+My dear Gandalf!
+
+GANDALF
+One hundred and eleven years old! Who would
+believe it? You haven't aged a day.
+
+BILBO
+Come in, come in, welcome, would you like some
+tea? Or perhaps something stronger. I still
+have some of the Old Winyards left. 1296, a
+very good year! Almost as old as I am! My
+Father put it down. What say we open one?
+
+BILBO puts GANDALF'S hat and staff away.
+Connection closed by foreign host.
+]0;kahlin@casca: ~/451/program1[01;32mkahlin@casca[00m:[01;34m~/451/program1[00m$ exit
+exit
+
+Script done on 2019-01-25 19:55:03-1000

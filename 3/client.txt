@@ -1,0 +1,17 @@
+Script started on 2019-02-24 23:39:56-1000
+]0;kahlin@casca: ~/ICS-451/3[01;32mkahlin@casca[00m:[01;34m~/ICS-451/3[00m$ ./client 25080
+Starting client.
+Attempting to connect to server...
+Attempting threeWay handshake. Sending SYN.
+Header looks like: c39861f8513d25be0000024470ffff00
+Receiving response header.
+Header looks like: 61f861f86a638832513d25bf0124470ffff00
+Changin ports, SYN, ACK, and SYN/ACK numbers
+Sending ACK
+Header looks like: c39861f8513d25c06a6388330104470ffff00
+Connected to server.
+Closing connection.
+]0;kahlin@casca: ~/ICS-451/3[01;32mkahlin@casca[00m:[01;34m~/ICS-451/3[00m$ exit
+exit
+
+Script done on 2019-02-24 23:40:24-1000
