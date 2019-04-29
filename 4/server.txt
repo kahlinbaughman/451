@@ -1,0 +1,19 @@
+Script started on 2019-03-15 21:07:08-1000
+]0;kahlin@casca: ~/451/4[01;32mkahlin@casca[00m:[01;34m~/451/4[00m$ make
+gcc -c server.c
+gcc server.o -o server -pthread
+gcc -c client.c
+gcc client.c -o client -pthread
+]0;kahlin@casca: ~/451/4[01;32mkahlin@casca[00m:[01;34m~/451/4[00m$ ../ser[K[K[K[K[K[K./server 25080
+Starting server.
+Getting the port number for the server to listen to.
+Binding server socket.
+Waiting for client to connect...
+Client connected.
+Sending file to client.
+Closing connection to client.
+^C
+]0;kahlin@casca: ~/451/4[01;32mkahlin@casca[00m:[01;34m~/451/4[00m$ exit
+exit
+
+Script done on 2019-03-15 21:08:15-1000

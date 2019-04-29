@@ -1,0 +1,428 @@
+Script started on 2019-03-15 21:07:18-1000
+]0;kahlin@casca: ~/451/4[01;32mkahlin@casca[00m:[01;34m~/451/4[00m$ script > server.txt[K./client [K[K[K[K[K[K[K[K[Kmake
+make: Nothing to be done for 'default'.
+]0;kahlin@casca: ~/451/4[01;32mkahlin@casca[00m:[01;34m~/451/4[00m$ ./client 25080
+Starting client.
+Attempting to connect to server...
+Connected to server.
+Receiving file.
+File revieved. Closing connection.
+]0;kahlin@casca: ~/451/4[01;32mkahlin@casca[00m:[01;34m~/451/4[00m$ ex[K[Kls
+[0m[01;32mclient[0m    client-songs.txt  [01;32mserver[0m    server.txt
+client.c  client.txt        server.c  spotify-songs.txt
+client.o  Makefile          server.o
+]0;kahlin@casca: ~/451/4[01;32mkahlin@casca[00m:[01;34m~/451/4[00m$ cat s[Kcle[Kient-songs.txt 
+everything you say mommy
+Midnight. Jinsang
+Neopolitin Guustavv
+Nothing changes: everything is different H.1
+Depiction Wenzel
+Pero Asi Made in M
+Waking Up to Sleep Zeus the Elevated
+Initium Initium
+Princess soder.
+Vibes This Is Tomorrow
+Blue Birds Justnormal
+Interstellar Arbour
+Flunked This Semester HM Surf
+NGC 6236 Toonorth
+Evenings Idealism
+Reach chief.
+sky to you luvwn
+Too Tired Smartface
+Waiting for You mell-ø
+savacu Wun Two
+Man in the Moon Smoke Trees
+Mosaic - Skit Psalm Trees
+Echoes Dontcry
+Bak Pak Lunchmoney
+Beginnings Knowmadic
+Lavender Casiio
+The Writer Smartface
+Not the Same twuan
+bedroom Smeyeul.
+Blue and Green Harris Cole
+Circles Snaer.
+Analog leaf beach
+double at 11pm jinsku
+Lakshmana Made in M
+97 Bertholet
+balcony view Leavv
+Peripheral Vision Axian
+Red Tide xJK.
+Show and Prove Es-K
+Faintly Shrimpnose
+Cause Vhsceral
+Flava Manny
+Syrup Dweeb
+Panacea. Misc.Inc
+RideOut enjo
+Recollections jrd.
+It’s Fine Chopef
+Wasted Years Arvo to me
+viaduct creek Delayde
+Silence Philanthrope
+Snitchfoot Karavelo
+Phin Estugarda
+Floating wuf
+Aqua skies leaf beach
+blxt asbeluxt
+Winter Walks Lungfulls
+Xx22-2 Lapis
+Fuse Brenky
+Bridges .Sinh
+Out West Sumwun
+But Not So Fast Bertholet
+Merci jrd.
+Putyahandzup Juan Rios
+Green Tea chief.
+whereucomefrom. oofoe
+Noairleft Lostiu.
+Loss Chris Keys
+Rest Easy Cozy Collective
+Sky Map Natural Swing
+singularita t Bilo 503
+Crises organic_kid
+night time Chill Children
+pigments. Fushou.
+sunday Smeyeul.
+4 [bump] [bsd.u]
+Village Wun Two
+Aura JFilt
+The Road Flynn
+aural sex less.people
+Washing Away goosetaf
+Cereal Keef 7apes
+1412 Afluen
+Reminisce Howiewonder
+lay up Bonnaz
+Wandering Worlds Tyler Showers
+falling Mora
+our little pond mommy
+Morning Mist Resort Saito
+Leavin' Brenky
+Cmnd Dust Collectors
+Her Wandering Gaze. Smeyeul.
+sleep well stream_error
+sorry chief.
+Hands Free Saiko
+yellow chords jhfly
+Pillars of Creation BluntOne
+Revell Smoke Trees
+walk Nosnija
+Faith Cowode
+eucalyptus Smuv
+Ayahuasca Sxmniak
+Last Stop. Sebastian Kamae
+Bliss Kaizen 92
+Same Detergent Bertholet
+Sk8teing in Central Park Wun Two
+I0000012 Too Ugly
+Lila Delphin Priesemut
+Nature Chill Mujo
+Ghost Train Haze BluntOne
+Panama Kupla
+Hermit Graves
+Men Cry Sumwun
+Stardust Flavors
+chimney MF Eistee
+a.r. mindbody&beats
+Schehmetmoll Dramadigs
+calm jhfly
+Redux Smoke Trees
+Lovely Nion
+Alone Marshmello
+Long Distance Love Roomie
+She Got A... Travis Mills
+Counting Stars Otc
+Vagabond MisterWives
+Icarus Jeremy Zucker
+Pressure 6 Flawless Real Talk
+Unravel (From "Tokyo Ghoul") NateWantsToBattle
+No Parallels Hands Like Houses
+All Night Longer Sammy Adams
+Nesian 101 Nesian Mystik
+Papercuts (feat. Vera Blue) Illy
+Bumi Kelangit Bondan Prakoso
+Haru Haru BIGBANG
+Conversations The Rep
+It's Gonna Be Me *NSYNC
+Oath Cher Lloyd
+I Can't Quit (feat. Reconcile) Capital Kings
+Suket Teki Via Vallen
+Doing Fine Snow Tha Product
+Say You Love Me Souljah
+Never Quit Benjah
+You & Me Marc E. Bassy
+This Little Girl Cady Groves
+You're Mine Maybe Next Summer
+Anunnaki DONNY ARCADE
+Boys And Girls Zico
+Fuck Yourself Havva
+This City Patrick Stump
+Canda Tawamu Momonon
+Cinemetropolis Blue Scholars
+Lalo Schifrin Blue Scholars
+Tommy Chong Blue Scholars
+The Bird Anderson .Paak
+Heart Don't Stand a Chance Anderson .Paak
+Am I Wrong Anderson .Paak
+Your Prime Anderson .Paak
+Celebrate Anderson .Paak
+The Dreamer Anderson .Paak
+Black Betty Caravan Palace
+Jolie coquine Caravan Palace
+Feeling Good Nina Simone
+Take a Bow Muse
+Afro Blue Robert Glasper Experiment
+Live from Chattanooga YGTUT
+Kairos (The Trip) YGTUT
+Superman Goldfinger
+Magic Carpet Ride Steppenwolf
+Juicy The Notorious B.I.G.
+Shining Star Earth, Wind & Fire
+Beast Of Burden - Remastered The Rolling Stones
+November Has Come Gorillaz
+DARE Gorillaz
+Like Toy Soldiers Eminem
+Brick House Commodores
+What Do You Want from Me Pink Floyd
+The Waters Anderson .Paak
+Put Me Thru Anderson .Paak
+Collie Man Slightly Stoopid
+Misirlou Dick Dale and his Del-Tones
+Hold On Loosely 38 Special
+Waste Phish
+Every Breath You Take - Remastered 2003 The Police
+No Rest For The Weary Blue Scholars
+Proletariat Blues Blue Scholars
+Sagaba (Remix) Blue Scholars
+Solstice: Reintroduction Blue Scholars
+Selfportrait Blue Scholars
+Legend Has It Run The Jewels
+Stay Gold Run The Jewels
+A Report to the Shareholders / Kill Your Masters Run The Jewels
+Lone Digger Caravan Palace
+Rock It for Me Caravan Palace
+Dramophone Caravan Palace
+What It's Like Everlast
+Amour T'es La Snarky Puppy
+You Go Down Smooth Lake Street Dive
+Rental Love Lake Street Dive
+I Want You Back Lake Street Dive
+Sunshine Atmosphere
+Diddy Bop (feat. Cam O'bi & Raury) Noname
+All I Need (feat. Xavier Omär) Noname
+Tom Sawyer Rush
+Love Never Felt so Good (Original Version) Michael Jackson
+Don't Owe You a Thang Gary Clark Jr.
+Color of My Soul Pretty Lights
+Yellow Bird Pretty Lights
+Go Down Sunshine Pretty Lights
+So Bright (feat. Eligh) Pretty Lights
+My Only Hope Pretty Lights
+Angels / Your Love Mr Jukes
+Grant Green Mr Jukes
+Leap Of Faith Mr Jukes
+Changes Charles Bradley
+Soldier's Poem Muse
+Supermassive Black Hole Muse
+Map Of The Problematique Muse
+Starlight Muse
+Baby Blue King Krule
+Suede NxWorries
+Take A Chance On Me Bluey
+Tired of Being Alone Al Green
+Crazy On You Heart
+Superstition - Single Version Stevie Wonder
+Signed, Sealed, Delivered (I'm Yours) Stevie Wonder
+Bad Self Portraits Lake Street Dive
+Breath of the Wild Trailer User Youth
+Trailer (From "TLOZ Breath Of The Wild") [Piano Cover] Light Raven
+Breath of the Wild: Field (Day) User Youth
+Breath of the Wild: Riding (Night) User Youth
+Breath of the Wild: Field (Night) User Youth
+Field (Day) [From "The Legend of Zelda: Breath of the Wild"] The Versions
+Field (Night) [From "The Legend of Zelda: Breath of the Wild"] The Versions
+Riding (Day) [From "The Legend of Zelda: Breath of the Wild"] The Versions
+Stables (From "The Legend of Zelda: Breath of the Wild") The Versions
+Riding (Night) [From "The Legend of Zelda: Breath of the Wild"] The Versions
+The Temple of Time (From "The Legend of Zelda: Breath of the Wild") The Versions
+Zora's Domain (Night) [From "The Legend of Zelda: Breath of the Wild"] The Versions
+Breath of the Wild: Riding (Day) User Youth
+Hateno Village (Day) [From "The Legend of Zelda: Breath of the Wild"] The Versions
+Divine Beast Vah Ruta (Inside) [From "The Legend of Zelda: Breath of the Wild"] The Versions
+Kakariko Village (Night) [From "The Legend of Zelda: Breath of the Wild"] The Versions
+Main Theme (From Legend of Zelda: Breath of the Wild) String Player Gamer
+Kass' Theme (Fro "The Legend of Zelda: Breath of the Wild) Qumu
+Yiga Clan Hideout (From "The Legend of Zelda: Breath of the Wild") The Versions
+Kass' Theme (From "The Legend of Zelda: Breath of the Wild) [Edited Version] Qumu
+Field (Day) [From "The Legend of Zelda: Breath of the Wild"] The Versions
+Riding (Day) [From "The Legend of Zelda: Breath of the Wild"] The Versions
+Riding (Night) [From "The Legend of Zelda: Breath of the Wild"] The Versions
+The Temple of Time (From "The Legend of Zelda: Breath of the Wild") The Versions
+Stables (From "The Legend of Zelda: Breath of the Wild") The Versions
+Zora's Domain (Night) [From "The Legend of Zelda: Breath of the Wild"] The Versions
+Kakariko Village (Night) [From "The Legend of Zelda: Breath of the Wild"] The Versions
+Hateno Village (Day) [From "The Legend of Zelda: Breath of the Wild"] The Versions
+Yiga Clan Hideout (From "The Legend of Zelda: Breath of the Wild") The Versions
+Shrine (From "The Legend of Zelda: Breath of the Wild") The Versions
+Divine Beast Vah Ruta (Inside) [From "The Legend of Zelda: Breath of the Wild"] The Versions
+Shrine (From "The Legend of Zelda: Breath of the Wild") The Versions
+Riding (Day) The Greatest Bits
+Gerudo Town (Day) The Greatest Bits
+The Temple of Time The Greatest Bits
+Stables The Greatest Bits
+Field (Day) The Greatest Bits
+Hyrule Castle from "The Legend of Zelda: Breath Of The Wild" Video Game L'Orchestra Cinematique
+Breath of the Wild (From "Zelda") [Violin Version] VioDance
+Main Theme (From "The Legend of Zelda: Breath of the Wild") Music Legends
+Breath of the Wild: Zora's Domain User Youth
+Breath of the Wild Theme Video Game Piano Players
+Prince Sidon's Theme Video Game Piano Players
+Kass's Theme Video Game Piano Players
+Trailer Theme for Piano (From "The Legend of Zelda: Breath of the Wild") Franco Albertini
+Life in the Ruins for Piano (From "The Legend of Zelda: Breath of the Wild") Franco Albertini
+Kass's Theme (From "The Legend Of Zelda: Breath of the Wild") Music Legends
+Main Theme (From "The Legend of Zelda: Breath of the Wild") Music Legends
+Breath of the Wild Trailer - Orchestral Version Light Raven
+Breath of the Wild Main Theme (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+The Old Man Appears (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Field (Day) [From "Zelda: Breath of the Wild"] [For Piano Solo] daigoro789
+The Temple of Time (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Stables (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Link's Memories (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Hateno Village (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Kass's Theme (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Prince Sidon's Theme (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Mipha's Theme (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Urbosa's Theme (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Hudson Moves Out (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Tarrey Town (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Daruk's Theme (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Revali's Theme (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Flight Range (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Colosseum Ruins (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Korok Forest (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Stables (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Hateno Village (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Kass's Theme (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Korok Forest (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Mipha's Theme (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Urbosa's Theme (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Daruk's Theme (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Revali's Theme (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Main Theme (From "The Legend of Zelda: Breath of the Wild") Franco Albertini
+Field (Day) [From "The Legend of Zelda: Breath of the Wild"] Franco Albertini
+Riding (Day) [From "The Legend of Zelda: Breath of the Wild"] Franco Albertini
+Sheikah Tower (From "The Legend of Zelda: Breath of the Wild") Franco Albertini
+Field Battle (From "The Legend of Zelda: Breath of the Wild") Franco Albertini
+Shrine (From "The Legend of Zelda: Breath of the Wild") Franco Albertini
+Hateno Village (From "The Legend of Zelda: Breath of the Wild") Franco Albertini
+Talus Battle (From "The Legend of Zelda: Breath of the Wild") Franco Albertini
+The Temple of Time (From "The Legend of Zelda: Breath of the Wild") Franco Albertini
+Vah Rutah I (From "The Legend of Zelda: Breath of the Wild") Franco Albertini
+Vah Rutah II (From "The Legend of Zelda: Breath of the Wild") Franco Albertini
+Rito Village (From "The Legend of Zelda: Breath of the Wild") Franco Albertini
+Vah Medoh I (From "The Legend of Zelda: Breath of the Wild") Franco Albertini
+Vah Medoh II (From "The Legend of Zelda: Breath of the Wild") Franco Albertini
+Field (Night) [From "The Legend of Zelda: Breath of the Wild"] Franco Albertini
+The Final Battle (From "The Legend of Zelda: Breath of the Wild") Franco Albertini
+Life in the Ruins (From "The Legend of Zelda: Breath of the Wild") Franco Albertini
+Gerudo Town (Day) [From "The Legend of Zelda: Breath of the Wild"] Music Legends
+Kass' Theme (From "The Legend of Zelda: Breath of the Wild") Moisés Nieto
+Breath of the Wild Main Theme (From "The Legend of Zelda: Breath of the Wild") [A Cappella] Mr Dooves
+Medley Zelda Breath of the Wild: Main Theme / On Horse / Rito Village / Hyrule Castle / Beast Ganon Grissini Project
+Breath of the Wild: Kass' Theme User Youth
+Sheikah Tower (From "The Legend of Zelda: Breath of the Wild") The Versions
+Death Mountain (From "The Legend of Zelda: Breath of the Wild") The Versions
+Flight Range (From "The Legend of Zelda: Breath of the Wild") The Versions
+Rito Village (Night) [From "The Legend of Zelda: Breath of the Wild"] The Versions
+Lost Woods (From "The Legend of Zelda: Breath of the Wild") The Versions
+Great Fairy's Fountain (From "The Legend of Zelda: Breath of the Wild") The Versions
+Hyrule Castle (From "Breath of the Wild") [Orchestral Cover] Light Raven
+The Legend of Zelda [Breath of the Wild] -Main Theme- Ralpi Composer
+Selmie's Spot (From "The Legend of Zelda: Breath of the Wild") The Versions
+Attack On Vah Ruta (From "Breath of the Wild") [Orchestral Version] Light Raven
+Kass' theme (From "the Legend of Zelda, Breath of the Wild") Claire Waluch
+Mipha's Theme (From "Breath of the Wild") [Orchestral Version] Light Raven
+Great Fairy's Fountain (From "The Legend of Zelda: Breath of the Wild") The Versions
+Death Mountain (From "The Legend of Zelda: Breath of the Wild") The Versions
+Rito Village (Night) [From "The Legend of Zelda: Breath of the Wild"] The Versions
+Sheikah Tower (From "The Legend of Zelda: Breath of the Wild") The Versions
+Ruins (From "The Legend of Zelda: Breath of the Wild") The Versions
+Lost Woods (From "The Legend of Zelda: Breath of the Wild") The Versions
+Flight Range (From "The Legend of Zelda: Breath of the Wild") The Versions
+Mountains (From "The Legend of Zelda: Breath of the Wild") The Versions
+Selmie's Spot (From "The Legend of Zelda: Breath of the Wild") The Versions
+Breath of the Wild Main Theme (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Breath of The Wild Main Theme (From "Zelda: Breath of the Wild") [For Piano Solo] Manaka Kataoka
+Story Trailer (From "Zelda: Breath Of The Wild") [For Piano Solo] Manaka Kataoka
+The Old Man Appears (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Field (Day) [From "Zelda: Breath of the Wild"] [For Piano Solo] daigoro789
+Battle (Field) [From "Zelda: Breath Of The Wild"] [For Piano Solo] Manaka Kataoka
+The Temple of Time (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Stables (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Stables (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Link's Memories (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Kakariko Village (Day) [From "Zelda: Breath Of The Wild"] [For Piano Solo] daigoro789
+Talus Battle (From "Zelda: Breath Of The Wild") [For Piano Solo] Manaka Kataoka
+Hateno Village (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Hateno Village (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Dye Clothes (From "Zelda: Breath Of The Wild") [For Piano Solo] Manaka Kataoka
+Hudson Moves Out (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Riding (Day) [From "Zelda: Breath Of The Wild"] [For Piano Solo] daigoro789
+Kass's Theme (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Kass's Theme (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Prince Sidon's Theme (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Prince Sidon's Theme (From "Zelda: Breath Of The Wild") [For Piano Solo] Manaka Kataoka
+Zora's Domain (Day) [From "Zelda: Breath Of The Wild"] [For Piano Solo] Manaka Kataoka
+Attack On Vah Ruta (From "Zelda: Breath Of The Wild") [For Piano Solo] Manaka Kataoka
+Waterblight Ganon Battle (From "Zelda: Breath Of The Wild") [For Piano Solo] Manaka Kataoka
+Mipha's Theme (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Mipha's Theme (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Great Fairy Fountain (From "Zelda: Breath Of The Wild") [For Piano Solo] Koji Kondo
+Hinox Battle (From "Zelda: Breath Of The Wild") [For Piano Solo] Manaka Kataoka
+Cave (From "Zelda: Breath Of The Wild") [For Piano Solo] Manaka Kataoka
+Lurelin Village (Day) [From "Zelda: Breath Of The Wild"] [For Piano Solo] Manaka Kataoka
+Gerudo Town (Day) [From "Zelda: Breath Of The Wild"] [For Piano Solo] Yasuaki Iwata
+Divine Beast Vah Naboris (From "Zelda: Breath Of The Wild") [For Piano Solo] Manaka Kataoka
+Urbosa's Theme (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Urbosa's Theme (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Molduga Battle (From "Zelda: Breath Of The Wild") [For Piano Solo] Manaka Kataoka
+Tarrey Town (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Lost Woods (From "Zelda: Breath Of The Wild") [For Piano Solo] daigoro789
+Korok Forest (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Korok Forest (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Gaurdian Battle (From "Zelda: Breath Of The Wild") [For Piano Solo] Manaka Kataoka
+Goron City (Day) [From "Zelda: Breath Of The Wild"] [For Piano Solo] Manaka Kataoka
+Daruk's Theme (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Daruk's Theme (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Rito Village (Day) [From "Zelda: Breath Of The Wild"] [For Piano Solo] Manaka Kataoka
+Rito Sisters (From "Zelda: Breath Of The Wild") [For Piano Solo] Manaka Kataoka
+Flight Range (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Divine Beast Vah Medoh (From "Zelda: Breath Of The Wild") [For Piano Solo] Manaka Kataoka
+Revali's Theme (From "Zelda: Breath of the Wild") [For Flute & Piano Duet] daigoro789
+Revali's Theme (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+The Champions' Ballad (From "Zelda: Breath Of The Wild") [For Piano Solo] Manaka Kataoka
+Parasailing Minigame (From "Zelda: Breath Of The Wild") [For Piano Solo] Manaka Kataoka
+Colosseum Ruins (From "Zelda: Breath of the Wild") [For Piano Solo] daigoro789
+Captured Memories (From "Zelda: Breath Of The Wild") [For Piano Solo] Manaka Kataoka
+Hyrule Castle (Outside) [From "Zelda: Breath Of The Wild"] [For Piano Solo] Manaka Kataoka
+Hyrule Castle (Inside) [From "Zelda: Breath Of The Wild"] [For Piano Solo] Manaka Kataoka
+Dark Beast Ganon Battle (From "Zelda: Breath Of The Wild") [For Piano Solo] Manaka Kataoka
+Credits (Staff Roll) [From "Zelda: Breath Of The Wild"] [For Piano Solo] Manaka Kataoka
+Breath of the Wild Reven
+Zelda's Lullaby Celestial Aeon Project
+Zelda's Lullaby Laura Sullivan
+Lost Woods (Ambient Version) Laura Sullivan
+Ocarina Songs Seth Everman
+Kokiri Forest - Piano Version Seth Everman
+Kakariko Village Seth Everman
+Serenade of Water Seth Everman
+Great Fairy's Fountain Seth Everman
+
+]0;kahlin@casca: ~/451/4[01;32mkahlin@casca[00m:[01;34m~/451/4[00m$ exit
+exit
+
+Script done on 2019-03-15 21:08:30-1000
